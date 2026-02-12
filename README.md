@@ -1,11 +1,11 @@
 
 
 <div align="left">
-  suffering from ADHD
+
 </div>
 <div align="right">
-  Hi! i am vivek.
+  Hi! i am chaitanya.
   <br>
-  <a href="https://vivekchitturi.vercel.app/">checkout my portfolio</a></br>
-  still under development:(  
+  <a href="https://iamchitturi.vercel.app/">checkout my portfolio</a></br>
+  under development ('_')  
 </div>
