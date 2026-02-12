@@ -10,5 +10,5 @@
 </div>
 
 <div style="width: 100%; overflow: hidden; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); border: 1px solid #eee;">
-  <img src="image_7a7875.jpg" alt="Alolan Vulpix Workshop Chaos" style="width: 100%; display: block; object-fit: cover;">
+  <img src="https://github.com/iamchitturi/image/blob/main/Gemini_Generated_Image_r3frsjr3frsjr3fr.png" alt="Alolan Vulpix Workshop Chaos" style="width: 100%; display: block; object-fit: cover;">
 </div>
